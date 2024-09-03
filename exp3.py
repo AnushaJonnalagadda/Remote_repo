@@ -11,3 +11,5 @@ print("The reversed salaries:",L1[::-1])
 print("The minimum salary is:",min(L1))
 print("The maximum salary is:",max(L1))
 print("The sum salary is:",sum(L1))
+
+#req2:we will work in this file
